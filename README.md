@@ -1,5 +1,7 @@
 # 💫 About Me:
-![ChatGPT Image Jun 3, 2025 at 12_59_46 AM](https://github.com/user-attachments/assets/d09a8b4c-b3ee-464d-a508-d3410166fa7b)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d09a8b4c-b3ee-464d-a508-d3410166fa7b" alt="Aryan Bhutyal Banner" width="600" style="border-radius: 50%;">
+</p>
 
 👨‍💻 Hi! I'm **Aryan Bhutyal**, an aspiring software engineer with a passion for crafting clean, efficient, and user-friendly web applications. I thrive on solving real-world problems through code and continuously learning new technologies to improve my skill set.<br><br>
 
