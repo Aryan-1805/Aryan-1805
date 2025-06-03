@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 Hi!
+👨‍💻 Hi!<br>
 I'm **Aryan Bhutyal**, an aspiring software engineer with a passion for crafting clean, efficient, and user-friendly web applications. I thrive on solving real-world problems through code and continuously learning new technologies to improve my skill set.<br><br>
 
 🚀 **What I Do:**<br>
